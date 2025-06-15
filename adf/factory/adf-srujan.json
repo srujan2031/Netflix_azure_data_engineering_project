@@ -1,0 +1,9 @@
+{
+	"name": "adf-srujan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3ef41490-3f40-4b42-9b03-df0f591b88ff",
+		"tenantId": "8ce79b44-c68b-48e4-af22-6ad94c5339aa"
+	}
+}
